@@ -76,17 +76,27 @@
 <div>&nbsp;</div>
 
 <p align="center">
-  <img src="./movie_alt_circle.png" alt="Cinema" title="Cinema" width="100" height="100"/>
+  <a href="https://www.rottentomatoes.com/m/apocalypse_now" target="_blank">
+    <img src="./movie_alt_circle.png" alt="Cinema" title="Cinema" width="100" height="100"/>
+  </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="./jazz_circle.png" alt="Prog rock and jazz fusion" title="Prog rock and jazz fusion" width="100" height="100"/>
+  <a href="https://www.youtube.com/watch?v=50fB5L1vmn8" target="_blank">
+    <img src="./jazz_circle.png" alt="Prog rock and jazz fusion" title="Prog rock and jazz fusion" width="100" height="100"/>
+  </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="./book_circle.png" alt="J. R. R. Tolkien" title="J. R. R. Tolkien" width="100" height="100"/>
+  <a href="https://www.goodreads.com/book/show/7332.The_Silmarillion" target="_blank">
+    <img src="./book_circle.png" alt="J. R. R. Tolkien" title="J. R. R. Tolkien" width="100" height="100"/>
+  </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="./japanese_circle.png" alt="Languages" title="Languages" width="100" height="100"/>
+  <a href="https://youtu.be/FtC4v2q1LRw?t=111" target="_blank">
+    <img src="./japanese_circle.png" alt="Languages" title="Languages" width="100" height="100"/>
+  </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="./mountains_circle.png" alt="Hiking" title="Hiking" width="100" height="100"/>
+  <a href="https://www.rottentomatoes.com/m/apocalypse_now" target="_blank">
+    <img src="./mountains_circle.png" alt="Hiking" title="Hiking" width="100" height="100"/>
+  </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.youtube.com/watch?v=u3kaRQONg8s" target="_blank">
+  <a href="https://goo.gl/maps/Nn5pBoaWuoqnMy2n8" target="_blank">
     <img src="./music_circle.png" alt="Playing music" title="Playing music" width="100" height="100"/>
     <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
   </a>
