@@ -1,7 +1,9 @@
 ![](./hello_there_mountains.gif)
+<p><p/><p><p/>
 
 <h3 align="center">I'm Dara, and I make all sorts of software</h3>
 
+<hr>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -28,6 +30,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+<hr>
 
 <h3 align="center">Connect with me</h3>
 <p align="center" style="display: flex; justify-content: space-between">
