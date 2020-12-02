@@ -43,6 +43,16 @@
 <div>&nbsp;</div>
 
 <p align="center">
+  <a href="https://irishinterfirmsgaming.ie" target="_blank">
+    <img src="./irishinterfirmsgaming.ie.png" width="400" height="200"/>
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://lauramjphelan.com" target="_blank">
+    <img src="./lauramjphelan.com.png" width="400" height="200"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/daradermody/poll-watch" target="_blank">
     <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg"/>
   </a>
