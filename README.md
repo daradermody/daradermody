@@ -60,7 +60,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/daradermody/ConsoleTable" target="_blank">
-    <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg" width="400"/>
+    <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg?v=2" width="400"/>
   </a>
   <a href="https://github.com/daradermody/shawshank-licence" target="_blank">
     <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg" width="400"/>
