@@ -92,11 +92,11 @@
     <img src="./japanese_circle.png" alt="Languages" title="Languages" width="100" height="100"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.rottentomatoes.com/m/apocalypse_now" target="_blank">
+  <a href="https://goo.gl/maps/Nn5pBoaWuoqnMy2n8" target="_blank">
     <img src="./mountains_circle.png" alt="Hiking" title="Hiking" width="100" height="100"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://goo.gl/maps/Nn5pBoaWuoqnMy2n8" target="_blank">
+  <a href="https://www.youtube.com/watch?v=u3kaRQONg8s" target="_blank">
     <img src="./music_circle.png" alt="Playing music" title="Playing music" width="100" height="100"/>
     <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
   </a>
