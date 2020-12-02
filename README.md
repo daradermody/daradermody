@@ -1,7 +1,8 @@
 ![](./hello_there_mountains.gif)
-<p><p/><p><p/>
 
+<div>&nbsp;</div>
 <h3 align="center">I'm Dara, and I make all sorts of software</h3>
+<div>&nbsp;</div>
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
@@ -37,10 +38,42 @@
   </a>
 </p>
 
-<h3 align="center">But I also enjoy doing other stuff too</h3>
-<p align="center">images!!</p>
+<div>&nbsp;</div>
+<h3 align="center">Check out some of the websites and repos I've created</h3>
+<div>&nbsp;</div>
 
+<p align="center">
+  <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg"/>
+  <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg"/>
+  <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg"/>
+  <img src="https://gh-card.dev/repos/daradermody/BallGobblers.svg"/>
+</p>
+
+<div>&nbsp;</div>
+<h3 align="center">But I also enjoy doing other stuff too</h3>
+<div>&nbsp;</div>
+
+<p align="center">
+  <img src="./movie_alt_circle.png" alt="Cinema" title="Cinema" width="100" height="100"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="./jazz_circle.png" alt="Prog rock and jazz fusion" title="Prog rock and jazz fusion" width="100" height="100"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="./book_circle.png" alt="J. R. R. Tolkien" title="J. R. R. Tolkien" width="100" height="100"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="./japanese_circle.png" alt="Languages" title="Languages" width="100" height="100"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="./mountains_circle.png" alt="Hiking" title="Hiking" width="100" height="100"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.youtube.com/watch?v=u3kaRQONg8s" target="_blank">
+    <img src="./music_circle.png" alt="Playing music" title="Playing music" width="100" height="100"/>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+  </a>
+</p>
+
+<div>&nbsp;</div>
 <h3 align="center">Connect with me!</h3>
+<div>&nbsp;</div>
+
 <p align="center" style="display: flex; justify-content: space-between">
   <a href="https://linkedin.com/in/daradermody" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="daradermody" height="30" width="40" />
