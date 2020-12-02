@@ -43,10 +43,18 @@
 <div>&nbsp;</div>
 
 <p align="center">
-  <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg"/>
-  <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg"/>
-  <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg"/>
-  <img src="https://gh-card.dev/repos/daradermody/BallGobblers.svg"/>
+  <a href="https://github.com/daradermody/poll-watch" target="_blank">
+    <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg"/>
+  </a>
+  <a href="https://github.com/daradermody/ConsoleTable" target="_blank">
+    <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg"/>
+  </a>
+  <a href="https://github.com/daradermody/shawshank-licence" target="_blank">
+    <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg"/>
+  </a>
+  <a href="https://github.com/daradermody/BallGobblers" target="_blank">
+    <img src="https://gh-card.dev/repos/daradermody/BallGobblers.svg"/>
+  </a>
 </p>
 
 <div>&nbsp;</div>
