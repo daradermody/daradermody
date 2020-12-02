@@ -1,7 +1,7 @@
 ![](./hello_there_mountains.gif)
 
 <div>&nbsp;</div>
-<h3 align="center">I'm Dara, and I make all sorts of software</h3>
+<h2 align="center">I'm Dara, and I make all sorts of software</h1>
 <div>&nbsp;</div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <div>&nbsp;</div>
-<h3 align="center">Check out some of the websites and repos I've created</h3>
+<h2 align="center">Check out some of the websites and repos I've created</h1>
 <div>&nbsp;</div>
 
 <p align="center">
@@ -50,6 +50,9 @@
   <a href="https://lauramjphelan.com" target="_blank">
     <img src="./lauramjphelan.com.png" width="400"/>
   </a>
+
+<div>&nbsp;</div>
+
   <a href="https://github.com/daradermody/poll-watch" target="_blank">
     <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg" width="400"/>
   </a>
@@ -67,7 +70,7 @@
 </p>
 
 <div>&nbsp;</div>
-<h3 align="center">But I also enjoy doing other stuff too</h3>
+<h2 align="center">But I also enjoy doing other stuff too</h2>
 <div>&nbsp;</div>
 
 <p align="center">
@@ -88,7 +91,7 @@
 </p>
 
 <div>&nbsp;</div>
-<h3 align="center">Connect with me!</h3>
+<h2 align="center">Connect with me!</h2>
 <div>&nbsp;</div>
 
 <p align="center" style="display: flex; justify-content: space-between">
