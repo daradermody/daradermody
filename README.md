@@ -44,26 +44,22 @@
 
 <p align="center">
   <a href="https://irishinterfirmsgaming.ie" target="_blank">
-    <img src="./irishinterfirmsgaming.ie.png" width="400" height="200"/>
+    <img src="./irishinterfirmsgaming.ie.png" width="400"/>
   </a>
-  <span>&nbsp;&nbsp;</span>
   <a href="https://lauramjphelan.com" target="_blank">
-    <img src="./lauramjphelan.com.png" width="400" height="200"/>
+    <img src="./lauramjphelan.com.png" width="400"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/daradermody/poll-watch" target="_blank">
-    <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg"/>
+    <img src="https://gh-card.dev/repos/daradermody/poll-watch.svg" width="400"/>
   </a>
   <a href="https://github.com/daradermody/ConsoleTable" target="_blank">
-    <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg"/>
+    <img src="https://gh-card.dev/repos/daradermody/ConsoleTable.svg" width="400"/>
   </a>
   <a href="https://github.com/daradermody/shawshank-licence" target="_blank">
-    <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg"/>
+    <img src="https://gh-card.dev/repos/daradermody/shawshank-licence.svg" width="400"/>
   </a>
   <a href="https://github.com/daradermody/BallGobblers" target="_blank">
-    <img src="https://gh-card.dev/repos/daradermody/BallGobblers.svg"/>
+    <img src="https://gh-card.dev/repos/daradermody/BallGobblers.svg" width="400"/>
   </a>
 </p>
 
